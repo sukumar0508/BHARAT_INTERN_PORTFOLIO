@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)file:///C:/Users/HP/OneDrive/Desktop/a.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <title>My Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #1425d8;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    nav ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    nav li {
+      display: inline;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+
+    section {
+      padding: 50px;
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+
+    .project {
+      margin-bottom: 30px;
+    }
+
+    .project img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>My Portfolio</h1>
+    <nav>
+      <ul>
+        <li><a href="file:///C:/Users/HP/OneDrive/Desktop/a.html#about">About</a></li>
+        <li><a href="file:///C:/Users/HP/OneDrive/Desktop/a.html#projects">Projects</a></li>
+        <li><a href="file:///C:/Users/HP/OneDrive/Desktop/a.html#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>Hello, I'm Koyyagura Sukumar Bose. I'm a student in LBRCE, Mylavaram studying BTECH|CSE.<br><br>
+      I do have not much prior experience and knowledge as I am a learner. <br><br>
+      I have 100% consistency, hard-working nature, and much prior enthusiasm to learn new things. So, I
+hereby work to the mark I can.
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+<p>Iam working on it.!!</p>
+   
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>You can reach me at koyyagurasuku@gmail.com</p>
+  </section>
+
+
+</body></html>
